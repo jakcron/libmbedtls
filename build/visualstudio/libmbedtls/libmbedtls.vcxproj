@@ -138,7 +138,7 @@
     <ClInclude Include="..\..\..\include\mbedtls\cipher.h" />
     <ClInclude Include="..\..\..\include\mbedtls\cipher_internal.h" />
     <ClInclude Include="..\..\..\include\mbedtls\cmac.h" />
-    <ClInclude Include="..\..\..\include\mbedtls\compat-1" />.3.h
+    <ClInclude Include="..\..\..\include\mbedtls\compat-1.3.h" />
     <ClInclude Include="..\..\..\include\mbedtls\config.h" />
     <ClInclude Include="..\..\..\include\mbedtls\ctr_drbg.h" />
     <ClInclude Include="..\..\..\include\mbedtls\debug.h" />
@@ -169,10 +169,10 @@
     <ClInclude Include="..\..\..\include\mbedtls\padlock.h" />
     <ClInclude Include="..\..\..\include\mbedtls\pem.h" />
     <ClInclude Include="..\..\..\include\mbedtls\pk.h" />
-    <ClInclude Include="..\..\..\include\mbedtls\pk_internal.h" />
     <ClInclude Include="..\..\..\include\mbedtls\pkcs11.h" />
     <ClInclude Include="..\..\..\include\mbedtls\pkcs12.h" />
     <ClInclude Include="..\..\..\include\mbedtls\pkcs5.h" />
+    <ClInclude Include="..\..\..\include\mbedtls\pk_internal.h" />
     <ClInclude Include="..\..\..\include\mbedtls\platform.h" />
     <ClInclude Include="..\..\..\include\mbedtls\platform_time.h" />
     <ClInclude Include="..\..\..\include\mbedtls\platform_util.h" />
