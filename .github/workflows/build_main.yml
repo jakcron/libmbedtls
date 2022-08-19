@@ -15,7 +15,7 @@ jobs:
     strategy:
       matrix:
         dist: [ubuntu_x86_64, macos_x86_64, macos_arm64]
-        prog: [libfmt]
+        prog: [libmbedtls]
         include:
          - dist: ubuntu_x86_64
            os: ubuntu-latest
@@ -45,7 +45,7 @@ jobs:
     strategy:
       matrix:
         dist: [win_x64, win_x86]
-        prog: [libfmt]
+        prog: [libmbedtls]
         include:
          - dist: win_x64
            os: windows-latest
